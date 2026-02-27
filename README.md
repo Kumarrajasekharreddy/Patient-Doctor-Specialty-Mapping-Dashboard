@@ -1,7 +1,7 @@
 # Patient-Doctor-Specialty-Mapping-Dashboard
 An interactive geospatial dashboard built using Python, Dash, Plotly, and Leaflet to visualize patient distribution and their connection to specific doctors based on specialty, location, and time filters.
 
-🚀 Project Overview
+ Project Overview
 ![Dashboard Main Page](https://github.com/Kumarrajasekharreddy/Patient-Doctor-Specialty-Mapping-Dashboard/blob/main/Images/Screenshot%20Main%20Page.jpg)
 
 📍 Location (Jubilee Hills, Secunderabad, Visakhapatnam, etc.)
@@ -27,6 +27,7 @@ Connection lines between doctor and patients
 Total number of patients linked to the selected doctor
 
 
+
 🗺️ Map Features
 
 🔵 Blue markers represent patient locations
@@ -36,6 +37,7 @@ Total number of patients linked to the selected doctor
 🟢 Green lines show connection between doctor and patients
 
 
+
 🖱️ Hovering over blue marker displays:
 
 Patient Name
@@ -43,6 +45,7 @@ Patient Name
 UHID (Unique Hospital ID)
 
 Location
+
 
 
 ⚙️ How It Works
@@ -58,6 +61,7 @@ Optionally selects specific doctor
 System filters patient records from database
 
 Displays patient-doctor connections on interactive map
+
 
 
 🧠 Technical Implementation
@@ -87,6 +91,7 @@ Dynamic marker rendering
 Real-time filtering
 
 
+
 📊 Key Use Cases
 
 Patient distribution analysis
@@ -96,6 +101,7 @@ Doctor workload analysis
 Healthcare operational analytics
 
 Hospital decision support system
+
 
 
 🧩 Technologies Used
