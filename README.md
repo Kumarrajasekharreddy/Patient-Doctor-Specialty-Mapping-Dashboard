@@ -26,6 +26,7 @@ Connection lines between doctor and patients
 
 Total number of patients linked to the selected doctor
 
+
 🗺️ Map Features
 
 🔵 Blue markers represent patient locations
@@ -34,6 +35,7 @@ Total number of patients linked to the selected doctor
 
 🟢 Green lines show connection between doctor and patients
 
+
 🖱️ Hovering over blue marker displays:
 
 Patient Name
@@ -41,6 +43,7 @@ Patient Name
 UHID (Unique Hospital ID)
 
 Location
+
 
 ⚙️ How It Works
 
@@ -55,6 +58,7 @@ Optionally selects specific doctor
 System filters patient records from database
 
 Displays patient-doctor connections on interactive map
+
 
 🧠 Technical Implementation
 
@@ -82,6 +86,7 @@ Dynamic marker rendering
 
 Real-time filtering
 
+
 📊 Key Use Cases
 
 Patient distribution analysis
@@ -91,6 +96,7 @@ Doctor workload analysis
 Healthcare operational analytics
 
 Hospital decision support system
+
 
 🧩 Technologies Used
 
