@@ -132,4 +132,4 @@ This project was developed for hospital analytics to help management:
 
 - Analyze doctor demand  
 
-- Optimize healthcare resource allocation  
+- Healthcare resource allocation  
