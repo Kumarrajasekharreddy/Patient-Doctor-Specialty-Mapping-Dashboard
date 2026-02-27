@@ -28,6 +28,7 @@ Total number of patients linked to the selected doctor
 
 
 
+
 🗺️ Map Features
 
 🔵 Blue markers represent patient locations
@@ -35,6 +36,7 @@ Total number of patients linked to the selected doctor
 🔴 Red marker represents doctor location
 
 🟢 Green lines show connection between doctor and patients
+
 
 
 
@@ -61,6 +63,8 @@ Optionally selects specific doctor
 System filters patient records from database
 
 Displays patient-doctor connections on interactive map
+
+
 
 
 
@@ -92,6 +96,7 @@ Real-time filtering
 
 
 
+
 📊 Key Use Cases
 
 Patient distribution analysis
@@ -101,6 +106,8 @@ Doctor workload analysis
 Healthcare operational analytics
 
 Hospital decision support system
+
+
 
 
 
