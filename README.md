@@ -2,8 +2,7 @@
 An interactive geospatial dashboard built using Python, Dash, Plotly, and Leaflet to visualize patient distribution and their connection to specific doctors based on specialty, location, and time filters.
 
 🚀 Project Overview
-
-This application allows users to select:
+![Dashboard Main Page](https://github.com/Kumarrajasekharreddy/Patient-Doctor-Specialty-Mapping-Dashboard/blob/main/Images/Screenshot%20Main%20Page.jpg)
 
 📍 Location (Jubilee Hills, Secunderabad, Visakhapatnam, etc.)
 
@@ -14,6 +13,10 @@ This application allows users to select:
 👨‍⚕️ Specific Doctor (optional)
 
 Based on the selected filters, the dashboard dynamically displays:
+![Dashboard Main Page](https://github.com/Kumarrajasekharreddy/Patient-Doctor-Specialty-Mapping-Dashboard/blob/main/Images/Screenshot%20Main%20Doctor%20View.jpg)
+
+![Dashboard Main Page](https://github.com/Kumarrajasekharreddy/Patient-Doctor-Specialty-Mapping-Dashboard/blob/main/Images/Screenshot%20From%20Patient%20Side.jpg)
+
 
 Patient locations on the map (Blue markers)
 
@@ -89,16 +92,6 @@ Healthcare operational analytics
 
 Hospital decision support system
 
-🏥 Real-World Application
-
-This project was developed for hospital analytics to help management:
-
-Understand patient inflow
-
-Analyze doctor demand
-
-Optimize healthcare resource allocation
-
 🧩 Technologies Used
 
 Python
@@ -113,9 +106,20 @@ Pandas
 
 SQL
 
-📷 Dashboard Preview
+🏥 Real-World Application
 
-(Add your screenshots here in GitHub)
+This project was developed for hospital analytics to help management:
+
+Understand patient inflow
+
+Analyze doctor demand
+
+Optimize healthcare resource allocation
+
+
+
+
+
 
 
 
