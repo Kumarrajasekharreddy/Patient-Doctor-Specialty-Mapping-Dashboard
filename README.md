@@ -29,117 +29,107 @@ Total number of patients linked to the selected doctor
 
 
 
-🗺️ Map Features
+## 🗺️ Map Features
 
-🔵 Blue markers represent patient locations
+- 🔵 Blue markers represent patient locations  
 
-🔴 Red marker represents doctor location
+- 🔴 Red marker represents doctor location  
 
-🟢 Green lines show connection between doctor and patients
+- 🟢 Green lines show connection between doctor and patients  
 
+- 📊 Total number of patients linked to the selected doctor  
+## 🖱️ Hovering over blue marker displays:
 
+- Patient Name  
 
+- UHID (Unique Hospital ID)  
 
-🖱️ Hovering over blue marker displays:
-
-Patient Name
-
-UHID (Unique Hospital ID)
-
-Location
+- Location  
 
 
 
-⚙️ How It Works
+## ⚙️ How It Works
 
-User selects hospital location
+- User selects hospital location  
 
-Selects doctor specialty
+- Selects doctor specialty  
 
-Selects year and month
+- Selects year and month  
 
-Optionally selects specific doctor
+- Optionally selects specific doctor  
 
-System filters patient records from database
+- System filters patient records from database  
 
-Displays patient-doctor connections on interactive map
-
-
+- Displays patient-doctor connections on interactive map  
 
 
 
-🧠 Technical Implementation
+## 🧠 Technical Implementation
 
-Frontend:
+### Frontend:
 
-Dash
+- Dash  
 
-Plotly
+- Plotly  
 
-Dash Leaflet
-
-Backend:
-
-Python
-
-Pandas
-
-PostgreSQL / Excel (based on data source)
-
-Geospatial Processing:
-
-Latitude and Longitude mapping
-
-Dynamic marker rendering
-
-Real-time filtering
+- Dash Leaflet  
 
 
 
+### Backend:
 
-📊 Key Use Cases
+- Python  
 
-Patient distribution analysis
+- Pandas  
 
-Doctor workload analysis
-
-Healthcare operational analytics
-
-Hospital decision support system
+- PostgreSQL / Excel (based on data source)  
 
 
 
+### Geospatial Processing:
+
+- Latitude and Longitude mapping  
+
+- Dynamic marker rendering  
+
+- Real-time filtering  
 
 
-🧩 Technologies Used
 
-Python
+## 📊 Key Use Cases
 
-Dash
+- Patient distribution analysis  
 
-Plotly
+- Doctor workload analysis  
 
-Dash Leaflet
+- Healthcare operational analytics  
 
-Pandas
+- Hospital decision support system  
 
-SQL
 
-🏥 Real-World Application
+
+## 🧩 Technologies Used
+
+- Python  
+
+- Dash  
+
+- Plotly  
+
+- Dash Leaflet  
+
+- Pandas  
+
+- SQL  
+
+
+
+## 🏥 Real-World Application
 
 This project was developed for hospital analytics to help management:
 
-Understand patient inflow
+- Understand patient inflow  
 
-Analyze doctor demand
+- Analyze doctor demand  
 
-Optimize healthcare resource allocation
-
-
-
-
-
-
-
-
-
+- Optimize healthcare resource allocation  
