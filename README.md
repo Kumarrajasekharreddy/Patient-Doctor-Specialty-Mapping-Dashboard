@@ -99,17 +99,6 @@ Analyze doctor demand
 
 Optimize healthcare resource allocation
 
-📷 Dashboard Preview
-
-(Add your screenshots here in GitHub)
-
-👨‍💻 Author
-
-Perumani K Rajasekhar Reddy
-MCA Graduate
-Aspiring Data Scientist
-Hyderabad, India
-
 🧩 Technologies Used
 
 Python
@@ -123,3 +112,11 @@ Dash Leaflet
 Pandas
 
 SQL
+
+📷 Dashboard Preview
+
+(Add your screenshots here in GitHub)
+
+
+
+
